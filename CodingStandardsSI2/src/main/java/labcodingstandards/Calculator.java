@@ -6,7 +6,7 @@ package labcodingstandards;
 import java.util.Scanner;
 
 /**
- * @author tony_veas
+ * @author TONY VEAS CERVANTES
  *
  */
 public class Calculator {
@@ -17,6 +17,7 @@ public class Calculator {
      */
 //CHECKSTYLE:OFF
     public static void main(final String[] args) {
+// CHECKSTYLE:ON
         Scanner reader = new Scanner(System.in);
 
         System.out.print("1. +\n2. -\n3. *\n4. /\nEnter an operator: ");
