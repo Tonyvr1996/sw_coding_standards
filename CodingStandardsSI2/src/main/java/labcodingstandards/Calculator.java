@@ -57,7 +57,7 @@ public class Calculator {
         System.out.printf(result);
         reader.close();
     }
-    // CHECKSTYLE:ON
+
 
     /**
      * @param first of type double to do an operation
